@@ -11,7 +11,7 @@ This project focuses on layout design, responsiveness, and real-world UI cloning
 
 ## 🌐 Live Demo
 
-🎥 Demo Video: https://www.youtube.com/watch?v=Zuhr7NPZpLY
+🎥 Demo Video: https://www.youtube.com/watch?v=Zuhr7NPZpLY <br>
 🔗 Live Website: https://student-sayan75.github.io/Netflix-UI-clone/
 
 ---
