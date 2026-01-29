@@ -51,6 +51,7 @@ This project focuses on layout design, responsiveness, and real-world UI cloning
 
 ## 📂 Project Structure
 
+```
 Netflix-Clone/
 │
 ├── index.html
@@ -65,6 +66,7 @@ Netflix-Clone/
 │ └── video2.mp4
 ├── Screenshots/
 └── README.md
+```
 
 ## 🚀 How to Run Locally
 
@@ -96,6 +98,6 @@ Netflix-Clone/
 
 ## 🤝 Connect With Me
 
-- **GitHub:** https://github.com/your-username
-- **YouTube:** https://youtube.com/@your-channel
-- **LinkedIn:** https://linkedin.com/in/your-profile
+- **GitHub:** https://github.com/student-Sayan75
+- **YouTube:** https://www.youtube.com/channel/UCbKKHt1DEGntiDRaa-jQD_w
+- **LinkedIn:** https://www.linkedin.com/in/sayan-ali-mallick-1238832a5/
